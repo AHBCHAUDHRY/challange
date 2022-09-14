@@ -1,4 +1,4 @@
-
+//hi ashfaq am doing changes on your project
     $(function(){                        //will run this function when whole document will be loaded
         $("p").on("click",function(){    //click function on paragraph attribute
           $(this).hide("slow");                 //will hide paragraph when clicking on it
